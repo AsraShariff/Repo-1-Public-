@@ -3,4 +3,4 @@ on:
   workflow_dispatch:
 jobs:
   Reusableworkflow: 
-     uses: AsraShariff/Repo2Public/.github/workflows/fumble.yml@main #comments
+     uses: AsraShariff/Repo2Private/.github/workflows/fumble.yml@main #comments
