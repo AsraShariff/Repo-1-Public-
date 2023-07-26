@@ -3,4 +3,4 @@ on:
   workflow_dispatch:
 jobs:
   Reusableworkflow: 
-     uses: CanarysPlayground/ideal-fortnight/.github/workflows/Idealdotnet.yml@LocalTestBranch
+     uses: CanarysPlayground/ideal-fortnight/.github/workflows/test.yml@main
