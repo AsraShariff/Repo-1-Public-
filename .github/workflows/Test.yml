@@ -10,4 +10,4 @@ jobs:
     runs-on: Ubuntu-latest
     steps:
       - name: Display Username
-        run: echo"Username is Octocat"
+        run: echo " Username is Octocat "
